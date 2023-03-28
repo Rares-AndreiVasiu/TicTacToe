@@ -287,7 +287,7 @@ int minimax(int *board, int depthOfSearch, bool isMaximizing)
 	unsigned gameStatus = checkWinner();
 
 	/*
-		we enode the following: X = 1,
+		we encode the following: X = 1,
 								O: -1,
 								tie = 0
 		for the minimax algorithm
