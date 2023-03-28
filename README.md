@@ -1,7 +1,7 @@
 # TicTacToe
 game developed in C
 
-# Tutorial
+## Tutorial
 
 The board coordinates are indexed as following:
 ----------------
